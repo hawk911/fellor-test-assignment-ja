@@ -1,0 +1,140 @@
+[
+  {
+    "day": "01",
+    "applicationToInterview": 0,
+    "offerAcceptance": 0,
+    "rejection": 0
+  },
+  {
+    "day": "02",
+    "applicationToInterview": 25,
+    "offerAcceptance": 37,
+    "rejection": 43
+  },
+  {
+    "day": "03",
+    "applicationToInterview": 42,
+    "offerAcceptance": 50,
+    "rejection": 18
+  },
+  {
+    "day": "04",
+    "applicationToInterview": 38,
+    "offerAcceptance": 55,
+    "rejection": 58
+  },
+  {
+    "day": "05",
+    "applicationToInterview": 36,
+    "offerAcceptance": 60,
+    "rejection": 51
+  },
+  {
+    "day": "06",
+    "applicationToInterview": 32,
+    "offerAcceptance": 47,
+    "rejection": 45
+  },
+  {
+    "day": "07",
+    "applicationToInterview": 40,
+    "offerAcceptance": 47,
+    "rejection": 25
+  },
+  {
+    "day": "08",
+    "applicationToInterview": 52,
+    "offerAcceptance": 43,
+    "rejection": 26
+  },
+  {
+    "day": "09",
+    "applicationToInterview": 55,
+    "offerAcceptance": 48,
+    "rejection": 42
+  },
+  {
+    "day": "10",
+    "applicationToInterview": 60,
+    "offerAcceptance": 47,
+    "rejection": 26
+  },
+  {
+    "day": "11",
+    "applicationToInterview": 67,
+    "offerAcceptance": 48,
+    "rejection": 35
+  },
+  {
+    "day": "12",
+    "applicationToInterview": 63,
+    "offerAcceptance": 52,
+    "rejection": 25
+  },
+  {
+    "day": "13",
+    "applicationToInterview": 61,
+    "offerAcceptance": 55,
+    "rejection": 42
+  },
+  {
+    "day": "14",
+    "applicationToInterview": 65,
+    "offerAcceptance": 44,
+    "rejection": 26
+  },
+  {
+    "day": "15",
+    "applicationToInterview": 75,
+    "offerAcceptance": 44,
+    "rejection": 40
+  },
+  {
+    "day": "16",
+    "applicationToInterview": 70,
+    "offerAcceptance": 55,
+    "rejection": 57
+  },
+  {
+    "day": "17",
+    "applicationToInterview": 63,
+    "offerAcceptance": 58,
+    "rejection": 45
+  },
+  {
+    "day": "18",
+    "applicationToInterview": 59,
+    "offerAcceptance": 65,
+    "rejection": 42
+  },
+  {
+    "day": "19",
+    "applicationToInterview": 55,
+    "offerAcceptance": 62,
+    "rejection": 47
+  },
+  {
+    "day": "20",
+    "applicationToInterview": 60,
+    "offerAcceptance": 67,
+    "rejection": 62
+  },
+  {
+    "day": "21",
+    "applicationToInterview": 63,
+    "offerAcceptance": 75,
+    "rejection": 72
+  },
+  {
+    "day": "22",
+    "applicationToInterview": 55,
+    "offerAcceptance": 85,
+    "rejection": 87
+  },
+  {
+    "day": "23",
+    "applicationToInterview": 39,
+    "offerAcceptance": 90,
+    "rejection": 82
+  }
+]
